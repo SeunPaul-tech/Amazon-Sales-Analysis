@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon Sales Dashboard – Rethinking Urban Sales Assumptions
 
 ![Amazon Sales Dashboard](/Amazon%20img.png)
@@ -117,3 +118,6 @@ Amazon-Sales-Dashboard/
 📁 [GitHub Repository](https://github.com/SeunPaul-tech/Amazon-Sales-Analysis)  
 📧 [olutolaseunpaul@gmail.com]
 
+=======
+# Amazon-Sales-Analysis
+>>>>>>> 476e62cf6f686139f544cdf93c9afdb7e2100e67
